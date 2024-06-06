@@ -1,15 +1,21 @@
 # zupass_bot
-Script to get the frogs
 
-How to use:
-Create and activate the virtual environment:
+Script to get the frogs.
+
+## How to use:
+
+### 1. Create and activate the virtual environment:
+
+```sh
 python3 -m venv myenv
 source myenv/bin/activate
+```
+```sh
 pip install selenium
-
-run:
+```
+### 2. Run:
+```sh
 python frog.py
-
-type ur zupass and email and pass
-
-get them frogs
+```
+### 3. Input your ZuPass email and password when prompted.
+## Get them frogs!
